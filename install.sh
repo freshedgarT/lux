@@ -5,6 +5,7 @@
 sudo apt-get update
 sudo apt-get upgrade -y
 sudo apt-get install -y vim
+sudo apt-get install -y htop
 sudo apt-get install -y arc-theme
 sudo apt-get install -y wget curl
 sudo apt-get install -y git
